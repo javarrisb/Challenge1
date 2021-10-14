@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* apply style to <header> starts */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,10 +46,24 @@ header nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }
+/* apply style to <header> ends */
 
-p {
+/* apply style to <footer> */
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+
+footer p {
     font-size: 16px;
 }
+/* apply style to <footer> ends */
 
 .hero {
     height: 800px;
@@ -188,13 +203,3 @@ p {
     font-size: 36px;
 }
 
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
