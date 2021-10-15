@@ -8,7 +8,7 @@ A website that is accessible and optimized for search engines
 * CSS
 
 ## Website
-javarrisb.github.io
+https://javarrisb.github.io/Challenge1/
 
 ## Contribution
 Made with thoughtful compassion by Javarrisb
