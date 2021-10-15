@@ -1,7 +1,7 @@
 # Horiseon Marketing
 
 ## Purpose of the website
-A website that is accessible and optimized for search engines
+A website that is accessible for everyone and optimized for search engines
 
 ## Built With
 * HTML
